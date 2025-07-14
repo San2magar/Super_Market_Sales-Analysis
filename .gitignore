@@ -1,0 +1,15 @@
+ #Ignore virtual environments
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Anaconda-specific (if not needed)
+anaconda_projects/
+
+# Dataset (optional if large or private)
+Data_Sets/
